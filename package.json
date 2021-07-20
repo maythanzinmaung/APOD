@@ -13,7 +13,7 @@
     "fetch-timeout": "0.0.2",
     "node-fetch": "^2.6.0",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.5.2",
     "react-native-paper": "^3.3.0",
     "react-native-vector-icons": "^6.6.0",
