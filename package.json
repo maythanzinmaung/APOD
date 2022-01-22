@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "fetch-timeout": "0.0.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-gesture-handler": "^1.5.2",
